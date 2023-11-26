@@ -1,5 +1,5 @@
 # EBM-MultiCohort
-This repository contains the source code to reproduce the meta-sequence presented in the paper [_Comparison and aggregation of event sequences across ten cohorts to describe the consensus biomarker evolution in Alzheimer’s disease_](https://doi.org/10.1186/s13195-022-01001-y)
+This repository contains the source code to reproduce the meta-sequence presented in the paper *Comparison and aggregation of event sequences across ten cohorts to describe the consensus biomarker evolution in Alzheimer’s disease* [\[Link\]](https://doi.org/10.1186/s13195-022-01001-y)
 
 ### Citation: 
 Golriz Khatami, S., Salimi, Y., Hofmann-Apitius, M., Oxtoby, N. P., Birkenbihl, C.(2022). Comparison and aggregation of event sequences across ten cohorts to describe the consensus biomarker evolution in Alzheimer’s disease. Alzheimer's Research & Therapy, 14(1), 55.
